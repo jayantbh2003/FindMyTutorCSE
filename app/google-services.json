@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434263707033",
+    "project_id": "findandtalkwithtutor",
+    "storage_bucket": "findandtalkwithtutor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434263707033:android:e35c38e2717ed157dc5708",
+        "android_client_info": {
+          "package_name": "com.akshat.findmytutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGeagGewnLnM6RcAAiB7osW9D87NqBZAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
